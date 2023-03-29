@@ -1,2 +1,2 @@
 first commit
-second commit and modified by user/first
+second commit and modified by user/second
